@@ -53,12 +53,11 @@ Purchase patterns
 
 
 🛠️ Project Workflow
+
 1️⃣ Clone the Repository
-git clone https://github.com/your-github-username/your-repository-name.git
-cd your-repository-name
 
+[https://github.com/your-github-username](https://github.com/gauravchavhan2904/Customer-trends-data-analysis-SQL-Python-PowerBI)
 
-(Replace with your actual repo link.)
 
 2️⃣ Open Jupyter Notebook
 
@@ -106,8 +105,7 @@ Build presentation using your preferred tool (e.g., Gamma AI, PowerPoint)
 Hi, I’m Gaurav Chavhan, a Data Analytics enthusiast passionate about building real-world analytics projects that transform data into insights.
 
 🔗 GitHub:
-[https://github.com/your-github-username](https://github.com/gauravchavhan2904/Customer-trends-data-analysis-SQL-Python-PowerBI)
-
+https://github.com/gauravchavhan2904
 
 📜 License
 
